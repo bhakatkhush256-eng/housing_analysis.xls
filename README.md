@@ -105,4 +105,4 @@ A bar chart was added to the `Analysis` sheet: **"Average Median House Value by 
 - Rebuild the workflow in Python (pandas) for portfolio diversification
 
 ---
-*Author: Khushbakhat | BS Information Technology, GCUF | Data Analyst in training*
+*Author: Khushbakhat | BS Information Technology, GCUF |Junior Data Analyst
