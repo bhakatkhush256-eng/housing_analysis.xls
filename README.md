@@ -46,7 +46,7 @@ Two new columns were engineered rather than deleting or ignoring the incomplete 
 =IF(E2="","YES","NO")
 ```
 *Logic:* this creates an audit trail so imputed values are never mistaken for real observations.
- ![https://github.com/bhakatkhush256-eng/housing_analysis.xls/blob/8d7aeb89857f0d4ff36c8eed63366399edd8f572/Screenshot%202026-07-12%20053818.png] 
+ 
 ## Analysis Performed
 
 ### 1. Aggregate functions
@@ -77,7 +77,7 @@ Upper bound = AVERAGE(income) + 2 * STDEVP(income)
 Lower bound = AVERAGE(income) - 2 * STDEVP(income)
 ```
 Values outside this range are flagged as statistical outliers.
-
+ 
 ## Key Findings
 
 - **Data quality:** 99% complete; only `total_bedrooms` required cleaning (207 rows, handled via median imputation with a transparency flag).
