@@ -46,7 +46,7 @@ Two new columns were engineered rather than deleting or ignoring the incomplete 
 =IF(E2="","YES","NO")
 ```
 *Logic:* this creates an audit trail so imputed values are never mistaken for real observations.
- 
+ ![image alt](https://github.com/bhakatkhush256-eng/housing_analysis.xls/blob/e47a1106bb8edb14d887fa73d83590e24834e77a/Screenshot%202026-07-12%20053818.png)
 ## Analysis Performed
 
 ### 1. Aggregate functions
